@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trabalho Julio</string>
+    <string name="title_activity_outra_tela">OutraTela</string>
+    <string name="title_activity_main_segunda_tela">MainActivitySegundaTela</string>
+</resources>
